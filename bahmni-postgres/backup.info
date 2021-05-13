@@ -1,0 +1,17 @@
+[backrest]
+backrest-checksum="05477a117a3fee906e28d1cf70dcf157351f6034"
+backrest-format=5
+backrest-version="1.12"
+
+[backup:current]
+20210513-212414F={"backrest-format":5,"backrest-version":"1.12","backup-archive-start":"00000001000000000000009E","backup-archive-stop":"00000001000000000000009E","backup-info-repo-size":10428795,"backup-info-repo-size-delta":10428795,"backup-info-size":102669264,"backup-info-size-delta":102669264,"backup-timestamp-start":1620930225,"backup-timestamp-stop":1620930254,"backup-type":"full","db-id":1,"option-archive-check":true,"option-archive-copy":false,"option-backup-standby":false,"option-checksum-page":false,"option-compress":true,"option-hardlink":false,"option-online":true}
+
+[db]
+db-catalog-version=201608131
+db-control-version=960
+db-id=1
+db-system-id=6843805824025972500
+db-version="9.6"
+
+[db:history]
+1={"db-catalog-version":201608131,"db-control-version":960,"db-system-id":6843805824025972500,"db-version":"9.6"}
